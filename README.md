@@ -1,7 +1,4 @@
-# defy-layout
-dygma defy layers
-
-## Overview
+## Dygma Defy Layers Overview
 
 Keyboard layout for Windows that is heavily inspired by [Miryoku](https://github.com/manna-harbour/miryoku/tree/master/docs/reference), but makes use of the extra thumbkeys on the Defy to avoid base-layer homerow modifiers and enable more flexible layer switching.  
 
